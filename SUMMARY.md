@@ -7,12 +7,12 @@
 * [Array](array.md)
 * Linked List
 * Stack\/Queue
-* Trees \(Tree, Binary Tree, Binary Search Tree, Red-Black Tree, etc.\)
+* Trees 
 * Heap
-* Hash Table \(this is really important - understand all of the different collision mitigation mechanisms, understand what amortized constant-time means\)
-* Directed\/Undirected\/Weighted Graphs
-* Trie \(pronounced "tree"\)
-* Linked Hash Map
+* [Hash Table.md)
+* [Directed\/Undirected\/Weighted Graphs](directedundirectedweighted-graphs.md)
+* [Trie ](trie.md)
+* [Linked Hash Map](linked-hash-map.md)
 
 ## Algoritms
 * [Sorting algorithms](sorting-algorithmsmd.md)
