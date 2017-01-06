@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* TDD
 
 ## Data Structures
 * [Array](array.md)
@@ -23,4 +22,5 @@
 
 ## Concepts
 * [Bits and Bytes](bits-and-bytes.md)
+* [TDD](tdd.md)
 
