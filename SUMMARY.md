@@ -5,7 +5,7 @@
 ## Data Structures
 * [Array](array.md)
 * [Linked List](linked-list.md)
-* [Stack\/Queue](stackqueue.md)
+* [Stack \/ Queue](stackqueue.md)
 * [Trees](trees.md)
 * [Heap](heap.md)
 * [Directed\/Undirected\/Weighted Graphs](directedundirectedweighted-graphs.md)
