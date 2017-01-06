@@ -20,3 +20,6 @@
 * [Traversals - Dijkstra's, A\*, BFS, DFS](traversals---dijkstras-a-bfs-dfs.md)
 * [Prefix-tree searches](all-the-prefix-tree-searches.md)
 
+## Concepts
+* [Bits and Bytes](bits-and-bytes.md)
+
