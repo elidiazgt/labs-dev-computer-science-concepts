@@ -15,8 +15,8 @@
 * Linked Hash Map
 
 ## Algoritms
-* Sorting algorithms.md)
-* Tree traversals \(just memorize all of these inorder, preorder, postorder, level order\)
-* Traversals - Dijkstra's, A\*, BFS, DFS \(know the difference between DFS and BFS when would you use one over the other and why - hint, is usually matters when you don't have to search the whole space. Also make sure that you can code recursively and using your own stack\/queue\)
-* All the prefix-tree searches
+* [Sorting algorithms](sorting-algorithmsmd.md)
+* [Tree traversals](tree-traversals.md)
+* [Traversals - Dijkstra's, A\*, BFS, DFS](traversals---dijkstras-a-bfs-dfs.md)
+* [Prefix-tree searches](all-the-prefix-tree-searches.md)
 
