@@ -7,10 +7,10 @@
 * [Array](array.md)
 * Linked List
 * Stack\/Queue
-* Trees 
+* Trees
 * Heap
-* [Hash Table.md)
 * [Directed\/Undirected\/Weighted Graphs](directedundirectedweighted-graphs.md)
+* [Hash Table](hash-table.md)
 * [Trie ](trie.md)
 * [Linked Hash Map](linked-hash-map.md)
 
