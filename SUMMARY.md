@@ -11,6 +11,7 @@
 * [Directed\/Undirected\/Weighted Graphs](directedundirectedweighted-graphs.md)
 * [Hash Table](hash-table.md)
 * [Trie ](trie.md)
+* [Big-O](big-o.md)
 * [Linked Hash Map](linked-hash-map.md)
 
 ## Algoritms
