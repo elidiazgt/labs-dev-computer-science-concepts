@@ -1,4 +1,2 @@
-TDD
-
-
-
+Test-driven development (TDD)
+es un metodo que consiste en pruebas de datos en programas especificos, si un programa esta pronto a actualizar o a cambiar se puede ingresar datos de prueba antes de aplicarlos en el programa base, si la prueba cumple con los reguisitos entonces se puede proceder a aplicarlos, por el contrario si la prueba no pasa los requisitos estipulados o no funciona se depura y se comienza.
